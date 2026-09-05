@@ -8,7 +8,7 @@ using System;
 using System.Runtime.InteropServices;
 #endif
 
-public class EventoEspecial : MonoBehaviour
+public class CambiarEscenaPorState : MonoBehaviour
 {
     public Game gameManager;
     public ScriptableObject stateObjetivo;
